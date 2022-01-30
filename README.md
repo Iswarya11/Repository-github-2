@@ -4,7 +4,7 @@ empty1
 empty2
 updated to test1
 
-Am adding a new line number 7
+
 Am adding a new line number 8
 Am adding a new line number 9
 Am adding a new line number 10
